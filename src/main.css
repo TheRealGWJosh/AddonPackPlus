@@ -2,22 +2,20 @@
 /* Other Imports */
 @import url("https://devinkid1.github.io/Pop/base.css");
 @import url("https://nyri4.github.io/Discolored/main.css");
+/* Usrbg/BetterBG */
+@import url('https://flashc0rd.github.io/BetterBG/bg/backgrounds.css');
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://raw.githack.com/v-briese/Channel-Icons/main/channelicons.theme.css");
-@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterTooltips/tooltips.css");
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/CustomHighlightColor/highlight.css");
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css");
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterChannelIndicators/indicators.css");
 /*  TheRealGWJosh's Content */
 @import url("https://therealgwjosh.github.io/CustomCord/src/alt.css");
-@import url('https://flashc0rd.github.io/BetterBG/bg/backgrounds.css');
-@import url("https://therealgwjosh.github.io/CustomUserBadges/source/main.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Sidebar.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Call-BG.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/UserWindow.css");
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Member-List.css");
+@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Minimal-Members.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Friend-Grid.css");
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Comfer-Popouts.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/DTM-16-Settings.css");
 /*------------------------------------------------------------------------------------------*/
 :root {
