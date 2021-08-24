@@ -1,3 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-font-family: 'Balsamiq Sans', cursive;}
+font-family: var(--font, "Poppins"), "Poppins" !important;}
