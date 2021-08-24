@@ -1,6 +1,6 @@
 @import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/UserButtons.css");
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/BetterBG/Comfy-USRBG.css");
+@import "https://therealgwjosh.github.io/AddonPackPlus/src/Addons/UserButtons.css";
+
 
 :root{ 
 /* User button spacing */
