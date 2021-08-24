@@ -10,16 +10,22 @@
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css");
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterChannelIndicators/indicators.css");
 /*  TheRealGWJosh's Content */
+
+/* Customcord?? */
 @import url("https://therealgwjosh.github.io/CustomCord/src/alt.css");
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Sidebar.css");
+
+/* Revolution's Main Imports */
+@import url("https://therealgwjosh.github.io/Revolution/src/app/USRBG/BetterFreinds.css");
+@import url("https://therealgwjosh.github.io/Revolution/src/app/sidebar/Compact-Sidebar.css");
+
+/* AddonPack+ Content */
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Call-BG.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/UserWindow.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Minimal-Members.css");
-@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Friend-Grid.css");
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/DTM-16-Settings.css");
 /*------------------------------------------------------------------------------------------*/
 :root {
---channeltextarea-background: var(--background-mobile-primary);
+--channeltextarea-background: var(--background-secondary-alt);
 --replying-side: rgb(2, 183, 87);
 --replying-default: rgba(2, 183, 87, 0.05);
 --replying-hovered: rgba(2, 183, 87, 0.12);
