@@ -1,5 +1,4 @@
 @import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
-@import "https://therealgwjosh.github.io/AddonPackPlus/src/Addons/UserButtons.css";
 
 :root { 
 
@@ -12,7 +11,7 @@
 *   ℹ️ : This background isn't and cannot be linked to the new Nitro banners or USRBG 
 */
 
---status-background: url('https://i.imgur.com/ODa8LKK.jpg');
+--status-background: /* Hosted in The Main File */;
 
 /* ═══════『 ⚙️ / 🎤 / 🎧 ・ User button 』═══════
 *
