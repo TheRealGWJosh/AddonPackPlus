@@ -146,36 +146,7 @@
     --text-normal: #8E9297;
 }
 
-/* Panels Position *//*
-:root .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  width: 72px;
-  padding: 18px 0 60px 0;
-  flex-direction: column;
-  background: linear-gradient(transparent, var(--background-tertiary) 15%);
-}*/
-/* Avatar Position *//*
-:root .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp[aria-expanded=false] {
-  position: fixed;
-  bottom: 16.5px;
-  left: 13.5px;
-  z-index: 2;
-  margin: 0;
-}*/
-/* Status Picker Background *//*
-:root #status-picker {
-  position: fixed;
-  bottom: 8px;
-  left: 77px;
-  width: 230px;
-  height: 225px;
-  background: linear-gradient(transparent, var(--background-tertiary) 85%);
-  border-radius: 5px;
-}*/
-/* Status Fix *//*
+/* Status Picker USRBG Fix */
 :root .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp[aria-expanded=true] .wrapper-3t9DeA::before {
   content: "" !important;
   position: absolute;
@@ -184,9 +155,8 @@
   width: 230px;
   height: 140px;
   pointer-events: none;
-  background: linear-gradient( var(--status-background), var(--background-tertiary) 85%);   
-  background-image: var(--user-background, var(--status-background)) !important;
   background-color: var(--background-secondary-alt);
+  background: var(--status-background, var(--user-background));
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -194,11 +164,6 @@
   -webkit-mask: linear-gradient(black, transparent 100%);
   mask: linear-gradient(black, transparent 100%);
   opacity: 0.8;
-}*/
-:root .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp[aria-expanded=true] .wrapper-3t9DeA::before {
-  background: linear-gradient( var(--status-background), var(--background-tertiary) 15%);   
-  background-image: var(--user-background, var(--status-background)) !important;
-  background-color: var(--background-secondary-alt);
 }
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
