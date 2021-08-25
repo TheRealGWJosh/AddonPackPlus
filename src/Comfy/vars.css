@@ -146,7 +146,7 @@
     --text-normal: #8E9297;
 }
 
-/* Panels Position */
+/* Panels Position *//*
 :root .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
   bottom: 0;
@@ -156,15 +156,15 @@
   padding: 18px 0 60px 0;
   flex-direction: column;
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
-}
-/* Avatar Position */
+}*/
+/* Avatar Position *//*
 :root .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp[aria-expanded=false] {
   position: fixed;
   bottom: 16.5px;
   left: 13.5px;
   z-index: 2;
   margin: 0;
-}
+}*/
 /* Status Picker Background */
 :root #status-picker {
   position: fixed;
