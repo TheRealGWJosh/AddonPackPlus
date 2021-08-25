@@ -146,7 +146,7 @@
     --text-normal: #8E9297;
 }
 
-/* Panels Position *//*
+/* Panels Position */
 :root .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
   bottom: 0;
@@ -156,16 +156,16 @@
   padding: 18px 0 60px 0;
   flex-direction: column;
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
-}*/
-/* Avatar Position *//*
+}
+/* Avatar Position */
 :root .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp[aria-expanded=false] {
   position: fixed;
   bottom: 16.5px;
   left: 13.5px;
   z-index: 2;
   margin: 0;
-}*/
-/* Status Picker Background */
+}
+/* Status Picker Background *//*
 :root #status-picker {
   position: fixed;
   bottom: 8px;
@@ -174,8 +174,8 @@
   height: 225px;
   background: linear-gradient(transparent, var(--background-tertiary) 85%);
   border-radius: 5px;
-}
-/* Status Fix */
+}*/
+/* Status Fix *//*
 :root .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp[aria-expanded=true] .wrapper-3t9DeA::before {
   content: "" !important;
   position: absolute;
@@ -194,7 +194,7 @@
   -webkit-mask: linear-gradient(black, transparent 100%);
   mask: linear-gradient(black, transparent 100%);
   opacity: 0.8;
-}
+}*/
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 ::-webkit-scrollbar { display: none;}.content-1x5b-n { margin: 0 !important; border-radius: 0; }.mainContent-u_9PKf { padding-left: 8px;}.container-2Pjhx- { margin: 0; max-width: unset; }.layout-2DM8Md { border-radius: 0; padding: 0 16px;}.unread-2lAfLh { z-index: 1;} .buttons-3JBrkn { padding-right: 10px !important;}/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the dafault one */
