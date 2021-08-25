@@ -165,6 +165,13 @@
   mask: linear-gradient(black, transparent 100%);
   opacity: 0.8;
 }
+/*----Dark Blue Set----*/
+
+/*Dark Blue Only <- Thanks lolpowerluke for dark blue*/
+* {cursor: url(https://i.imgur.com/xHtwnLD.png), url(https://i.imgur.com/xHtwnLD.png), auto !important;}
+/*Dark Blue Only*/
+* {cursor: url(https://i.imgur.com/pZccgWr.png), url(https://i.imgur.com/pZccgWr.png), auto !important;}
+
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 ::-webkit-scrollbar { display: none;}.content-1x5b-n { margin: 0 !important; border-radius: 0; }.mainContent-u_9PKf { padding-left: 8px;}.container-2Pjhx- { margin: 0; max-width: unset; }.layout-2DM8Md { border-radius: 0; padding: 0 16px;}.unread-2lAfLh { z-index: 1;} .buttons-3JBrkn { padding-right: 10px !important;}/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the dafault one */
