@@ -17,6 +17,15 @@
 @import url("https://therealgwjosh.github.io/Revolution/src/app/USRBG/BetterFreinds.css");
 @import url("https://therealgwjosh.github.io/Revolution/src/app/main/colorful-urls.css");
 
+/* Import the Name Gradient Database */
+@import url('https://discord-database.github.io/Gradient-Names/src/database.css');
+
+/* BetterBG Import*/
+@import url('https://flashc0rd.github.io/BetterBG/src/extra/modals.css');
+@import url('https://flashc0rd.github.io/BetterBG/src/userPopouts.css');
+@import url('https://flashc0rd.github.io/BetterBG/bg/backgrounds.css');
+@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+
 /* AddonPack+ Content */
 @import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Call-BG.css");
 /*@import url("https://therealgwjosh.github.io/AddonPackPlus/src/Addons/Compact-Sidebar.css");*/
