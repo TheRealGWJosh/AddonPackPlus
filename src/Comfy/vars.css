@@ -166,6 +166,88 @@
   opacity: 0.8;
 }
 
+/* It'sJustJosh */
+[user_by_bdfdb="362628885361197056"] + *,
+[data-user-id="362628885361197056"] + *,
+[vz-user-id="362628885361197056"] + *,
+[data-author-id="362628885361197056"] + *,
+[style*="362628885361197056"] + *,
+[src*="362628885361197056"] + *,
+img[src*="362628885361197056"] + *,
+[aria-label^="It'sJustJosh"] + * {
+--USRBG-banner-height: /* Comfy 60% */ /*57.3%*/ 60% !important;
+--user-background:
+url('https://media.discordapp.net/attachments/751155896024826018/878581917312749629/decorate.png') center !important;
+}
+/*Joshua Malava#0079*/
+[data-author-id="750781478991954031"],
+[vz-user-id="750781478991954031"],
+[data-user-id="750781478991954031"],
+[user_by_bdfdb="750781478991954031"],
+[aria-label^="Joshua Malava"] {
+--USRBG-banner-height: /* Comfy 60% */ /*57.3%*/ 60% !important;
+--user-background:
+url('https://media.discordapp.net/attachments/751155896024826018/878581917312749629/decorate.png') center !important;
+}
+
+/* User Modal / Userpopouts */
+#app-mount .userPopout-xaxa6l .popoutBanner-19WKGg,
+#app-mount .userPopout-xaxa6l .profileBanner-33-uE1 {
+	height: 120px !important;
+	max-height: var(--user-background, 60px) !important;
+}
+#app-mount .root-3QyAh1 .profileBanner-33-uE1 {
+	height: 240px !important;
+	max-height: var(--user-background, 120px) !important;
+}
+#app-mount .popoutBanner-19WKGg::before,
+#app-mount .profileBanner-33-uE1::before {
+	content: "";
+	position: absolute;
+	background: #000 var(--user-background) var(--user-popout-position, center)/cover no-repeat;
+	background-attachment: var(--user-background, fixed);
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+#app-mount .userPopout-xaxa6l .avatarPositionNormal-aZjAsn {
+	top: 76px !important;
+	margin-top: var(--user-background, -60px) !important;
+}
+#app-mount .userPopout-xaxa6l .headerTop-3vNv-a {
+	padding: 58px 16px 16px;
+}
+#app-mount .root-3QyAh1 .headerTop-54GTz {
+	min-height: 32px;
+}
+/* Main Modal */
+#app-mount .header-QKLPzZ {
+	transform: translateZ(0);
+}
+
+#app-mount .header-4zuFdR .wrapper-3t9DeA::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: var(--USRBG-banner-height, 100%);
+	opacity: 0.40;
+	pointer-events: none;
+	background: var(--user-background) center/cover no-repeat;
+}
+
+#app-mount .headerInfo-30uryT {
+	position: relative;
+	z-index: 1;
+}
+
+.profileBanner-33-uE1 {
+	opacity: 0;
+}
+
+
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 ::-webkit-scrollbar { display: none;}.content-1x5b-n { margin: 0 !important; border-radius: 0; }.mainContent-u_9PKf { padding-left: 8px;}.container-2Pjhx- { margin: 0; max-width: unset; }.layout-2DM8Md { border-radius: 0; padding: 0 16px;}.unread-2lAfLh { z-index: 1;} .buttons-3JBrkn { padding-right: 10px !important;}/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the dafault one */
 .container-6sXIoE { border-bottom: none !important; margin-bottom: 0 !important;}.container-6sXIoE .timeline-UWmgAx { position: relative !important;}.container-6sXIoE .bar-g2ZMIm { position: absolute !important; bottom: -6px !important; left: -8px !important; width: 240px !important; height: 53px !important;margin: 0 !important;-webkit-mask-image: linear-gradient(0.25turn, #0008, #0002) !important;mask-image: linear-gradient(0.25turn, #0008, #0002) !important;border-radius: 0 !important;}.barFill-Dhkah7 { border-radius: 0 !important;}.container-6sXIoE.maximized-vv2Wr0 .bar-g2ZMIm { height: 88px !important;}.container-6sXIoE .button-14-BFJ:hover { background-color: transparent !important;}.barFill-Dhkah7, .timeline-UWmgAx:hover .barFill-Dhkah7 { background: var(--spotify-color) !important;}.inner-WRV6k5 { z-index: 1 !important;}.barText-lmqc5O, .grabber-7sd5f5 { display: none !important;}
